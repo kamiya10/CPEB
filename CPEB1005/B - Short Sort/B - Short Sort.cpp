@@ -15,7 +15,10 @@ int main()
   while (t--)
   {
     char input[3];
-    cin >> input;
+    for (int i = 0; i < 3; i++)
+    {
+      cin >> input[i];
+    }
 
     char sorted[3];
     for (int i = 0; i < 3; i++)
