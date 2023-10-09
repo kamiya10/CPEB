@@ -19,6 +19,7 @@ For each test case output "`YES`" if there exists a subsegment in which $k$ is t
 You can output the answer in any case (for example, the strings "`yEs`", "`yes`", "`Yes`", and "`YES`" will be recognized as a positive answer).
 
 ## Sample 1
+
 <table>
 <tr>
 <th> Input </th> <th> Output </th>

@@ -19,6 +19,7 @@ For each test case, output "`YES`" if you can make the row $abc$ with at most on
 You can output the answer in any case (for example, the strings "`yEs`", "`yes`", "`Yes`" and "`YES`" will be recognized as a positive answer).
 
 ## Sample 1
+
 <table>
 <tr>
 <th> Input </th> <th> Output </th>
