@@ -3,7 +3,7 @@
 // Problem URL: https://vjudge.net/contest/585165#problem/F
 
 #include <iostream>
-#define ll long long
+#define looong long long
 using namespace std;
 
 int main()
@@ -17,15 +17,15 @@ int main()
     cin >> n;
 
     bool na = false;
-    ll s0;
+    looong s0;
     unsigned short e0;
     cin >> s0 >> e0;
 
-    ll sec = -2;
+    looong sec = -2;
 
     for (short i = 0; i < (n - 1); i++)
     {
-      ll s;
+      looong s;
       unsigned short e;
       cin >> s >> e;
 
