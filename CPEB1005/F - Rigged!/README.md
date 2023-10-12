@@ -30,7 +30,6 @@ For each test case, print the answer as follows:
 
 ## Sample 1
 
-
 <table>
 <tr>
 <th> Input </th> <th> Output </th>

@@ -20,7 +20,6 @@ The second line of each test case contains $n$ integers $a_1, a_2, \cdots, a_n$ 
 
 For each test case, print a single integer — the minimum value of $b_n$ among all good sequences $b$.
 
-
 ## Sample 1
 
 <table>
