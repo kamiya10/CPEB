@@ -1,3 +1,4 @@
 # CPEB
 All CPEB Contests
 - [CPEB1005](./CPEB1005)
+- [CPEB1012](./CPEB1012)
