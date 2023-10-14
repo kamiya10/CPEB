@@ -2,13 +2,12 @@
 
 You are given three integers $x$, $y$, and $n$.
 
-Your task is to construct an array $a$
- consisting of $n$
- integers which satisfies the following conditions:
+Your task is to construct an array $a$ consisting of $n$ integers which satisfies the following conditions:
 
 1. $a_1=x$, $a_n=y$;
 2. $a$ is **strictly** increasing (i.e. $a_1 \lt a_2 \lt \cdots \lt a_n$);
 3. if we denote $b_i=a_{i+1}−a_i$ for $1 \le i \le n−1$, then $b$ is strictly decreasing (i.e. $b_1 \gt b_2 \gt  \cdots  \gt b_{n−1}$).
+
 If there is no such array $a$, print a single integer $−1$.
 
 ## Input
